@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:100%;height:auto;" src="/images/ABALLAGHSAFA.png">
+  <img width="1000px" height="auto" src="/images/ABALLAGHSAFA.png">
 </p>
 
 <!--
