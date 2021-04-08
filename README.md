@@ -1,6 +1,6 @@
 ### Hi there I'm SAFA ABALLAGH 👋
 
-![Banner](/images/ABALLAGH SAFA.png)
+![Banner](/images/ABALLAGHSAFA.png)
 
 <!--
 **safafa/safafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
