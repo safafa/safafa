@@ -20,7 +20,6 @@ const safa = {
 
 ### Contact me 📫
 
-- GitHub: [@Safafa](https://github.com/safafa)
 - Twitter: [@Aballagh_S](https://twitter.com/Aballagh_S)
 - LinkedIn: [Aballagh Safa](https://www.linkedin.com/in/aballaghsafa/)
 
