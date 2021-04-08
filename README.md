@@ -9,10 +9,14 @@ const safa = {
   lookingFor: "Software Engineer position" || "Full-stack web developer",
   code: [JavaScript, React,Java , HTML/CSS, Bootstrap, Angular],
   Degrees: [Software Engeneering degree],
-  status: ['Currently looking for a new job opportunity'],
+  status: ['Currently learning and looking for a new job opportunity'],
   laguages: [Arabic, French, English]
 }
 ```
+
+### Stats :
+
+[![Safa's GitHub stats](https://github-readme-stats.vercel.app/api?username=safafa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me 📫
 
