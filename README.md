@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="1000px" height="auto" src="/images/ABALLAGHSAFA.png">
-</p>
 
 ### About me 👋
 
