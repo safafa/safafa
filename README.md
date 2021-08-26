@@ -19,6 +19,7 @@ const safa = {
 
 - Twitter: [@Aballagh_S](https://twitter.com/Aballagh_S)
 - LinkedIn: [Aballagh Safa](https://www.linkedin.com/in/aballaghsafa/)
+- Email: aballaghsafa@gmail.com
 
 <!--
 **safafa/safafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
