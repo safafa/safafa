@@ -5,9 +5,9 @@
 const safa = {
   lookingFor: "Software Engineer position" || "Full-stack web developer",
   stack: [Ruby_on_rails, JavaScript, React, Java],
-  Degrees: [Software Engeneering degree],
-  status: ['Currently learning and looking for a new job opportunity'],
-  laguages: [Arabic, French, English]
+  Degrees: [Software Engineering degree],
+  status: ['Currently learning and looking for a new job opportunity],
+  languages: [Arabic, French, English]
 }
 ```
 
