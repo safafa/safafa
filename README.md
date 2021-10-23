@@ -12,7 +12,7 @@ const safa = {
 ```
 
 ### Stats :
-[![Safa's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=safafa&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+
 [![Safa's GitHub stats](https://github-readme-stats.vercel.app/api?username=safafa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Most Used Languages
@@ -25,6 +25,7 @@ const safa = {
 <!--
 **safafa/safafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Commit Streak
+[![Safa's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=safafa&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
